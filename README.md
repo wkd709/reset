@@ -1,6 +1,6 @@
-#reset.css
+# reset.css
 
 > A css project
 
 
-##reset.css
+## reset.css
