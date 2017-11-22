@@ -45,7 +45,15 @@ table, caption, tbody, tfoot, thead, tr, th, td {
     box-sizing: border-box;
     /*background: transparent;*/
 }
-
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+ol, ul { list-style:none; }
+address, caption, cite, code, dfn, em, strong, th, var {
+    font-style:normal;
+    font-weight:normal;
+}
 /* # =================================================================
    # General elements
    # ================================================================= */
