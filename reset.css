@@ -7,6 +7,7 @@
 /* # =================================================================
    # Global selectors
    # ================================================================= */
+
 html {
   overflow-y: scroll;
   /* All browsers without overlaying scrollbars */
